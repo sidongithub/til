@@ -4,6 +4,10 @@ I am constantly learning new things. This is a repo to share our learnings. TILs
 
 License
 -----------------
+For rails :: 
+
+authie for session storage 
+
 
 No lincense, no trademarks and nothing except some new concepts for my buddies
 
